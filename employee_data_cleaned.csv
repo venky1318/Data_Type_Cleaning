@@ -1,0 +1,11 @@
+employee_id,employee_name,age,salary,department,joining_date,performance_score
+E001,Aarav,25,45000,IT,2023-01-15,4.5
+E002,Diya,28,52000,HR,2022-07-10,4.2
+E003,Kabir,31,68500,Finance,2021-03-22,4.7
+E004,Ananya,26,49000,IT,2023-09-05,4.4
+E005,Ishaan,35,75000,Operations,2020-11-18,4.1
+E006,Meera,29,58000,HR,2022-02-14,4.6
+E007,Rohan,33,72500,Finance,2021-08-30,4.3
+E008,Sara,24,42000,IT,2024-01-08,4.8
+E009,Vivaan,30,63000,Operations,2022-05-16,4.0
+E010,Aditi,27,55500,HR,2023-04-12,4.5
