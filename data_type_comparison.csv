@@ -1,0 +1,8 @@
+Column,Original Data Type,Corrected Data Type,Conversion Explanation
+employee_id,string,string,Kept as string: unique identifier
+employee_name,string,string,Kept as string: text information
+age,string,int64,String to int64 using astype()
+salary,string,Int64,Currency text to float64 using pd.to_numeric()
+department,string,category,String to category using astype()
+joining_date,string,datetime64[ns],String to datetime using pd.to_datetime()
+performance_score,string,float64,String to float64 using pd.to_numeric()
